@@ -1,0 +1,14 @@
+﻿l_english:
+ #options
+ coloredp.1.t:0 "Welcome to Sigma Surge"
+ coloredp.1.d:0 "The Skibidie of them all arrieved to brainrot Last Stand and Scuffed"
+ coloredp.1.a:0 "Force Attack is being revived"
+ #decisions
+ colored_puppets:0 "Colored Puppets"
+ colour_puppet:0 "Change color of [From.GetName]"
+ no_color:0 "Remove color"
+ coloredp_start:0"Mod started"
+ color_changed:0 "Color Changed"
+ remove_color:0 "Remove color of [From.GetName]"
+ #Country name fix
+ RAJ_subject:0 "$OVERLORDADJ$ Raj"
